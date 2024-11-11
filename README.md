@@ -20,7 +20,6 @@ A username scanning tool to see if accounts with the same username appear on oth
       -c, --chrome-driver-path string   Path to the ChromeDriver executable (default "binaries/chromedriver")
           --headless                    Run Chrome in headless mode
       -h, --help                        help for go_holmes
-      -u, --username string             Username for the social media account to search for 
-```
+      -u, --username string             Username for the social media account to search for```
 
 
